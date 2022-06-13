@@ -1,12 +1,3 @@
----
-author: "srijan_"
-title: "Hello world!"
-date: "2021-04-27"
-description: "Introducing cbrtl to the world"
-tags: ["general", "community"]
-ShowBreadCrumbs: true 
----
-
 # What is cbrtl?
 
 **cbrtl** is an attempt at creating a tight knit group of programmers who like making fun
